@@ -1,0 +1,14 @@
+{
+  "poll-title": "sw",
+  "duration": "1นาที",
+  "messageId": "1262110141717807258",
+  "sw": {
+    "approve": 1,
+    "disapprove": 0,
+    "abstain": 0,
+    "hasVoted": {
+      "849807530665574411": true
+    },
+    "presence": 1
+  }
+}

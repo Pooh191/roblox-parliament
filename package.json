@@ -1,0 +1,21 @@
+{
+  "name": "smart-parliament-bot",
+  "version": "0.0.1",
+  "description": "SMART Parliament Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Teeraphat_CH",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "axios": "^1.6.8",
+    "common-tags": "^1.8.2",
+    "discord-api-types": "^0.37.75",
+    "discord.js": "^14.14.1",
+    "nodemon": "^3.1.0",
+    "winston": "^3.12.0"
+  }
+}
